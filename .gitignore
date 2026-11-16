@@ -1,0 +1,14 @@
+Crashes.csv
+Crashes_new.csv
+Vehicles.csv
+People.csv
+*.parquet
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+.DS_Store
