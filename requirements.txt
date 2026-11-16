@@ -1,0 +1,11 @@
+# Inferred from the notebook imports; versions have not been tested as a lockfile.
+notebook
+ipython
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+scikit-learn
+statsmodels
+patsy
